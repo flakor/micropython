@@ -21,7 +21,7 @@ def weather():
 html = """<!DOCTYPE html>
 <html>
     <head> <title>ESP8266 Pins</title> </head>
-    <body> <h1>ESP8266 Pins</h1>
+    <body> <h1>ESP8266 Pins chypa</h1>
         <table border="1"> <tr><th>Temperatura</th><th> X </th></tr><tr><th>Pin</th><th>Value</th></tr> %s </table>
     </body>
 </html>
